@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+    font-family: Arial, sans-serif;
+    color: red;
+    padding: 20px;
+  }
+  
+  p {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  h1 { color: #3399ff; }  /* Light Blue */
+  h2 { color: #33cc33; }  /* Light Green */
+  h3 { color: #cc33ff; }  /* Purple-ish */
+  h4 { color: #ff9933; }  /* Orange */
+  h5 { color: #00ffff; }  /* Cyan */
+  h6 { color: #cccccc; }  /* Light Gray */
+
+  
